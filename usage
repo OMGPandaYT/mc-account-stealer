@@ -10,3 +10,6 @@ public class FileName() {
     Steal.Steal();
   }
 }
+
+
+Make sure to replace ALL signs of "package myjavaprogram" to "package <yourpackagename>" for the code to work
