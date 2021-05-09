@@ -1,0 +1,12 @@
+Code Usage:
+
+
+package myjavaprogram;
+
+import myjavaprogram.Steal;
+
+public class FileName() {
+  public static void FileName() {
+    Steal.Steal();
+  }
+}
